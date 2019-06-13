@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Skyld\\BulletproofTesting\\FizzBuzz\\": "src/"
+            "Skyld\\BulletproofTesting\\TDD\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Skyld\\BulletproofTesting\\FizzBuzz\\Tests\\": "tests/"
+            "Skyld\\BulletproofTesting\\TDD\\Tests\\": "tests/"
         }
     }
 }

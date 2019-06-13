@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Skyld\BulletproofTesting\FizzBuzz;
+namespace Skyld\BulletproofTesting\TDD;
 
 class FizzBuzz
 {
